@@ -1,0 +1,16 @@
+{
+  "id":  "da4a909d-40ba-4cf3-8f5c-89c813d3942e",
+  "name":  "sunway_goweb",
+  "projectResources":  {
+    "resources":  [
+      {
+        "folderUri":  "file:///d%3A/projects/2026_projects/sunway_goweb"
+      }
+    ]
+  },
+  "permissionGrants":  {
+    "v2Migrated":  true
+  },
+  "settings":  {},
+  "isWorkspaceOnly":  false
+}
